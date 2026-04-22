@@ -1,4 +1,4 @@
-# Nettside-Prosjekt-uke
+# Virtuell maskiner med active domain services
 Skal få videre oppfølging av lærer/ oppdaters underveis
 Prosjekt oppgave uke 11
 Dette er dokumentasjon for oppgaven, grundig forklarig på hvordan jeg gjorde det og hvordan jeg tenkte.
