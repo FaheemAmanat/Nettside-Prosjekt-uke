@@ -40,3 +40,10 @@ Problem: Den meldingen kommer fra Debians/Ubuntus pakkehåndterer (brukt av syst
 Og nei, jeg brukte ikke chatgpt for å skrive denne teksten, jeg oversettet den!
 
 Åpne et terminalvindu og kjør kommandoen sudo dpkg --configure -a. Dette vil gjenoppta og fullføre oppsettet av alle delvis installerte pakker. Det er et standard og trygt gjenopprettingssteg.
+
+Setter opp 2 VM-maskiner, en med Windows client og en med windows server. 
+<img width="770" height="540" alt="image" src="https://github.com/user-attachments/assets/40a3b736-ca03-43e7-aed1-a8d625dd1f11" />
+
+Slo av internette når jeg ble spurt om å lage konto for å bypasse det, operativ systemet er lastet ned. Nå skal jeg lage windows client VM'en
+<img width="770" height="526" alt="image" src="https://github.com/user-attachments/assets/b5113116-1da8-4096-9a75-c34ee2380ec2" />
+
