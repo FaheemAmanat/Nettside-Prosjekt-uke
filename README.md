@@ -47,3 +47,6 @@ Slo av internette når jeg ble spurt om å lage konto for å bypasse det, operat
 <img width="770" height="526" alt="image" src="https://github.com/user-attachments/assets/b5113116-1da8-4096-9a75-c34ee2380ec2" />
 
 Active Directory Domain Services er kjernekomponentet til Windows som har rolle for organisering av brukere, data og andre ressurser på nettverket.
+
+<img width="770" height="464" alt="image" src="https://github.com/user-attachments/assets/3dee3691-b626-4311-a30f-01d93a41c211" />
+Windows Client lastet ned, fikk ikke lastet ned Active directory domain service på grunn av at jeg lagde VM med Window 10 Home og ikke Windows 10 Pro. Etter ned lastningen er den ferdig og Active Directory kan lastes ned direkte fra Windows + R menyen på VM. 
